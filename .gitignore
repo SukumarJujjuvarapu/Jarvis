@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+.env
+.jarvis_token
+.DS_Store
+.vscode/
+*.log
+*.egg-info/
+dist/
+build/
